@@ -29,9 +29,9 @@ The dataset is obtained from Kaggle, containing information about various video 
 To ensure accessibility and ease of use, the project incorporates a user-friendly interface allowing users to input their preferred genre and receive trending game recommendations accordingly.
 ## Data Visualization:
 This plays a crucial role in clarifying insights from the dataset and evaluating model performance. Through box graphs, bar graphs, and histograms, we visualizes various aspects of the dataset and evaluates model performance.
-![Alt text](C:\Users\TECH ZONE\Pictures\Screenshots\Screenshot 2024-05-04 185753.png)
-![Alt text](C:\Users\TECH ZONE\Pictures\Screenshots\Screenshot 2024-05-04 185859.png)
-![Alt text](C:\Users\TECH ZONE\Pictures\Screenshots\Screenshot 2024-05-04 185913.png)
+![Alt text](C:/Users/TECH ZONE/Pictures/Screenshots/Screenshot%202024-05-04%20185753.png)
+![Alt text](C:/Users/TECH ZONE/Pictures/Screenshots/Screenshot%202024-05-04%20185859.png)
+![Alt text](C:/Users/TECH ZONE/Pictures/Screenshots/Screenshot%202024-05-04%20185913.png)
 
 ## Machine Learning Models:
 In addition to content-based filtering, this project explores the application of machine learning models such as logistic regression and random forest to further enhance recommendation accuracy. By comparing the performance of these models against the content-based approach, we gain deeper insights into the efficiency of different algorithms in delivering relevant game recommendations.
@@ -42,5 +42,7 @@ The Game Flow Recommender project demonstrates the development of a robust recom
 
 ## References
 Kaggle dataset: https://www.kaggle.com/datasets/kanchana1990/steam-store-2024-hot-picks-and-reviews/data
+
 Scikit-learn library for machine learning algorithms: [Documentation](https://scikit-learn.org/0.21/documentation.html)
+
 TensorFlow library for deep learning models: [Documentation](https://www.tensorflow.org/api_docs)
